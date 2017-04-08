@@ -1,0 +1,7 @@
+device V4L2:/dev/video0
+input 0
+resolution 1280x960
+banner-colour #FF000000
+line-colour #FF000000
+save image.jpg
+loop 1
